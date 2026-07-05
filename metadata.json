@@ -1,0 +1,6 @@
+{
+  "name": "KyyFinance",
+  "description": "A comprehensive personal financial manager, including transaction tracking, asset tracking, stock journals, crypto journals, debt tracker, and savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
